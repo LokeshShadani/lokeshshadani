@@ -1,109 +1,54 @@
-# ⚡ Lokesh Shadani – AI Powered Portfolio 🌐🤖
+# 🌌 Lokesh Shadani – Personal Portfolio & AI Hub 🤖🌐
 
-![Banner](https://dummyimage.com/1200x300/000/fff&text=Lokesh+Shadani+Portfolio+%7C+AI+Hub)
+![Banner](https://dummyimage.com/1200x250/000000/00ffea&text=Lokesh+Shadani+Portfolio+%7C+AI+Hub)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/your-netlify-badge/deploy-status)](https://lshadani.netlify.app)
-[![Last Commit](https://img.shields.io/github/last-commit/LokeshShadani/lokeshshadani?color=brightgreen)](https://github.com/LokeshShadani/lokeshshadani)
-[![Repo Size](https://img.shields.io/github/repo-size/LokeshShadani/lokeshshadani?color=blue)](https://github.com/LokeshShadani/lokeshshadani)
-[![Stars](https://img.shields.io/github/stars/LokeshShadani/lokeshshadani?style=social)](https://github.com/LokeshShadani/lokeshshadani)
+[![Website](https://img.shields.io/badge/🌍_Visit_Site-lshadani.netlify.app-blue?style=for-the-badge)](https://lshadani.netlify.app)
+[![GitHub](https://img.shields.io/badge/GitHub-LokeshShadani-black?style=for-the-badge&logo=github)](https://github.com/LokeshShadani)
+[![Stars](https://img.shields.io/github/stars/LokeshShadani/lokeshshadani?style=for-the-badge&color=yellow)](https://github.com/LokeshShadani/lokeshshadani)
+[![Last Commit](https://img.shields.io/github/last-commit/LokeshShadani/lokeshshadani?style=for-the-badge&color=brightgreen)](https://github.com/LokeshShadani/lokeshshadani)
+[![Repo Size](https://img.shields.io/github/repo-size/LokeshShadani/lokeshshadani?style=for-the-badge&color=blue)](https://github.com/LokeshShadani/lokeshshadani)
+[![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red?style=for-the-badge)]()
+
+---
+
+## ✨ About
 
 Welcome to **[lshadani.netlify.app](https://lshadani.netlify.app/)** 🚀  
-This is my **personal portfolio website** – designed to showcase my skills, projects, and experiments.  
-It is also evolving into an **AI-powered hub** with chatbot, voice assistant, and smart tools.
+A personal portfolio website designed to showcase my skills, projects, and experiments, **enhanced with AI-powered features** for interactive experiences.
 
 ---
 
-## ✨ Core Highlights
+## 🚀 Core Features
 
-- 📱 **Responsive UI** – Works flawlessly on all devices  
-- 🎨 **Modern Design** – Sleek, minimal, and professional  
-- 🖼️ **Portfolio Showcase** – Projects, blogs, and achievements  
-- 📬 **Contact Options** – Quick ways to connect with me  
-- ⚡ **Deployed on Netlify** – Secure & fast performance  
-
----
-
-## 🤖 AI-Powered Features (Present & Future)
-
-- 💬 **AI Chatbot Assistant** – Answering queries, guiding users  
-- 🖼️ **AI Image Tools** – Generate & enhance visuals  
-- 🔊 **Voice Assistant Mode** – Talk to the site like Jarvis  
-- 🎥 **AI Video Generator** – Turn ideas into short videos  
-- 🔍 **Smart Search** – AI + web scraping for live results  
-- 🧠 **Memory & Personalization** – Learns from past interactions  
+- 🎨 **Modern, Responsive UI** – Works on desktop, tablet & mobile  
+- ⚡ **Hosted on Netlify** – Fast & secure deployment  
+- 🖼 **Project Showcase** – Highlighting coding projects & achievements  
+- 📬 **Easy Contact Options** – Get in touch quickly  
+- 🤖 **AI Integration (Future)** – Chatbot, image/video tools, voice assistant  
+- 🧠 **Personalization** – Future AI remembers user interactions  
 
 ---
 
 ## 🛠️ Tech Stack
 
 - **Frontend:** HTML5, CSS3, JavaScript  
-- **AI:** Groq (LLaMA 3), Gemini, Hugging Face APIs *(planned)*  
-- **Deployment:** Netlify  
-- **Extras:** TailwindCSS (optional), Flask backend (future)  
+- **AI Integration:** Groq (LLaMA 3), Gemini, Hugging Face APIs *(planned)*  
+- **Hosting:** Netlify  
+- **Extras:** TailwindCSS *(optional), Flask backend *(future)*  
 
 ---
 
 ## 🧭 Roadmap
 
-- [x] Launch v1 portfolio website  
-- [ ] Add AI chatbot assistant  
-- [ ] Integrate voice input & speech output  
-- [ ] Add AI image generation tools  
-- [ ] Build video generation demo  
-- [ ] Release open-source template for others  
+- [x] ✅ Launch v1 portfolio  
+- [ ] 🤖 AI chatbot assistant  
+- [ ] 🎤 Voice assistant + speech output  
+- [ ] 🎨 AI image generation tools  
+- [ ] 🎥 AI video generator  
+- [ ] 📝 Blog & resource section  
+- [ ] 🌍 Open-source template release  
 
 ---
 
-## ⚡ Quick Start (Local Setup)
-
-```bash
-# Clone the repo
-git clone https://github.com/LokeshShadani/lokeshshadani.git
-
-# Move into folder
-cd lokeshshadani
-
-# Open index.html in your browser 🚀
-📂 Project Structure
-bash
-Copy code
-📂 lokeshshadani
- ┣ 📄 index.html          # Main entry
- ┣ 📄 style.css           # Styles
- ┣ 📄 script.js           # Core scripts
- ┣ 📂 images              # Portfolio images
- ┣ 📂 ai                  # AI integrations (planned)
- ┃ ┣ chatbot.js
- ┃ ┗ voice.js
- ┣ 📂 projects            # Detailed project pages
- ┗ 📄 README.md
-📊 Status & Analytics
-🌍 Live Site: lshadani.netlify.app
-
-📈 Performance: Optimized via Netlify CDN
-
-🛠️ Maintenance: Actively updated with new AI features
-
-📸 Screenshots (Coming Soon)
-Homepage	AI Assistant	Projects
-
-🔗 Connect With Me
-🧑‍💻 GitHub: LokeshShadani
-
-🌍 Website: lshadani.netlify.app
-
-📧 Email: lokeshshadani@gmail.com
-
-⚖️ Copyright & License
-This is a personal website created and owned by Lokesh Shadani.
-All content, design, and code are © Lokesh Shadani – All Rights Reserved.
-
-🚫 Unauthorized use, copying, or redistribution is strictly prohibited.
-
-⭐ Support
-If you like this project, don’t forget to star the repo ⭐
-and follow my journey as I build AI + Web experiences.
-
-
-
+## 📂 Project Structure
 
