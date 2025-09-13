@@ -52,3 +52,66 @@ A personal portfolio website designed to showcase my skills, projects, and exper
 
 ## 📂 Project Structure
 
+📂 lokeshshadani
+┣ 📄 index.html # Main entry
+┣ 📄 style.css # Styles
+┣ 📄 script.js # Core scripts
+┣ 📂 images # Portfolio images
+┣ 📂 ai # AI integrations (planned)
+┃ ┣ chatbot.js
+┃ ┗ voice.js
+┣ 📂 projects # Detailed project pages
+┗ 📄 README.md
+
+yaml
+Copy code
+
+---
+
+## 📸 Screenshots (Preview Soon)
+
+| 🌍 Homepage | 🤖 AI Assistant | 🖼️ Projects |
+|-------------|----------------|-------------|
+| ![Home](images/home-preview.png) | ![AI](images/ai-preview.png) | ![Portfolio](images/portfolio-preview.png) |
+
+---
+
+## ⚡ Quick Start
+
+```bash
+# Clone the repository
+git clone https://github.com/LokeshShadani/lokeshshadani.git
+
+# Move into folder
+cd lokeshshadani
+
+# Open index.html in browser 🚀
+🔗 Connect With Me
+🌍 Website: lshadani.netlify.app
+
+🐙 GitHub: LokeshShadani
+
+💼 LinkedIn: Your LinkedIn
+
+📧 Email: your-email@example.com
+
+⚖️ Copyright & License
+© 2025 Lokesh Shadani – All Rights Reserved
+This is a personal website; content, code, and design are protected by copyright.
+Unauthorized copying, redistribution, or usage is strictly prohibited.
+
+❤️ Built With
+Made with HTML, CSS, JavaScript, AI love, and ☕ by Lokesh Shadani.
+Star ⭐ this repo if you like it & follow the journey of an AI-powered personal portfolio!
+
+pgsql
+Copy code
+
+---
+
+✅ This is **the ultimate version**:  
+- Modern badges & shields  
+- Clear AI section  
+- Roadmap & screenshots  
+- Copyright & personal site notice  
+- Professional “built-with-love” footer  
