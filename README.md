@@ -92,9 +92,7 @@ Homepage	AI Assistant	Projects
 
 🌍 Website: lshadani.netlify.app
 
-💼 LinkedIn: Your LinkedIn Profile
-
-📧 Email: your-email@example.com
+📧 Email: lokeshshadani@gmail.com
 
 ⚖️ Copyright & License
 This is a personal website created and owned by Lokesh Shadani.
@@ -106,11 +104,6 @@ All content, design, and code are © Lokesh Shadani – All Rights Reserved.
 If you like this project, don’t forget to star the repo ⭐
 and follow my journey as I build AI + Web experiences.
 
-yaml
-Copy code
 
----
 
-This version now has a **clear copyright section** that marks it as your **personal property**.  
 
-👉 Do you also want me to make a **custom LICENSE file** (like `LICENSE.md`) that explicitly says *personal 
